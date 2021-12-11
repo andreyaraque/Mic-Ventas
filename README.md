@@ -1,2 +1,2 @@
-# Mic-Ventas
+# MicVentas
 Microservicio Ventas
